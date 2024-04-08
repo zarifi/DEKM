@@ -1,0 +1,11 @@
+iter," acc, nmi, ri ", loss, n_changed_assignment, time:2024-03-24 22:39:12
+iter 0," acc, nmi, ri = (0.65636, 0.57041, 0.0)", loss:0.00000, n_changed_assignment:70000, time:308.246
+iter 1," acc, nmi, ri = (0.75881, 0.65599, 0.43482)", loss:0.43482, n_changed_assignment:13564, time:425.167
+iter 2," acc, nmi, ri = (0.77143, 0.67839, 0.40657)", loss:0.40657, n_changed_assignment:5521, time:500.697
+iter 3," acc, nmi, ri = (0.78763, 0.69386, 0.37739)", loss:0.37739, n_changed_assignment:5542, time:582.923
+iter 4," acc, nmi, ri = (0.782, 0.69319, 0.15566)", loss:0.15566, n_changed_assignment:3988, time:644.597
+iter 5," acc, nmi, ri = (0.77633, 0.68736, 0.2176)", loss:0.21760, n_changed_assignment:2934, time:712.839
+iter 6," acc, nmi, ri = (0.78664, 0.70258, 0.36031)", loss:0.36031, n_changed_assignment:3314, time:777.646
+iter 7," acc, nmi, ri = (0.78664, 0.70698, 0.15958)", loss:0.15958, n_changed_assignment:2950, time:836.066
+iter," acc, nmi, ri ", loss, n_changed_assignment, time:2024-03-24 22:54:25
+iter 0," acc, nmi, ri = (0.65467, 0.57039, 0.0)", loss:0.00000, n_changed_assignment:70000, time:310.043
